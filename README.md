@@ -4,5 +4,5 @@
 1. 김태연
 
 ### 우리들 사진
-![image] (./image/)
-![image] (./image/)
+![이미지 1] (image/1.jpg)
+![이미지 2] (image/2.jpg)
